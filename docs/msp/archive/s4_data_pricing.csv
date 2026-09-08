@@ -1,0 +1,10 @@
+SERVICE 4: DATA ENGINEERING & PIPELINE MANAGEMENT — PRICING WORKBOOK
+Layer,Tier,Anchor unit,Monthly price (USD),Setup/fixed,What is included,Target margin %,Notes
+L1 Audit,Data & Reporting Health Check,per audit,,"2000-5000 fixed","Data map + cost-of-bad-data memo + 1 live dashboard + roadmap",50-60,3 weeks
+L2 Retainer,Managed Data Ops - Starter,1 pipeline / up to 3 reports,1500,1500 setup,"Pipeline monitoring + alerts + monthly refresh + 1 new report/quarter",70,,
+L2 Retainer,Managed Data Ops - Standard,3 pipelines / up to 8 reports,3000,2500 setup,"Starter + dbt transforms + quality checks (Soda/GE) + 2 reports/qtr",72,,
+L2 Retainer,Managed Data Ops - Scale,unlimited pipelines/reports,5500,4000 setup,"Dedicated data eng + warehouse mgmt + quarterly insight credit",75,,
+L3 Add-on,Pipeline / warehouse build,per build,,"5000-15000 fixed",The #1 need from audit,55,,
+L3 Add-on,Reverse ETL (warehouse to CRM),per integration,,"2500-5000",Hightouch/Census,60,,
+L4,BI platform mgmt (self-host),per client,,"pass-through + 25%",Metabase/Lightdash hosting,25 on license,margin play
+L4,AI/ML-readiness data set,per project,,"fixed",Clean dataset + embeddings for Service 1,65,,

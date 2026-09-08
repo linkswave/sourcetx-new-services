@@ -1,0 +1,11 @@
+SERVICE 2: CYBERSECURITY & COMPLIANCE — PRICING WORKBOOK
+Layer,Tier,Anchor unit,Monthly price (USD),Setup/fixed,What is included,Target margin %,Notes
+L1 Audit,Security & Compliance Gap Assessment,per audit,,"2500-5000 fixed","Gap report mapped to regs + insurer forms + 30-day quick wins + live phishing sim",50-60,2-3 weeks
+L2 Retainer,Secured - Essentials,per user (10-user min),25,1000 setup,"MFA + EDR + email security + patch mgmt + dark-web monitoring + help desk",60,,
+L2 Retainer,Secured - Business,per user (10-user min),45,1500 setup,"Essentials + awareness training/phishing sim + DNS filtering + backup mgmt",62,,
+L2 Retainer,Secured & Compliant,per user (10-user min),75,2500 setup,"Business + compliance evidence program (SOC2/HIPAA) + policy mgmt",65,,
+L2 Retainer,vCISO advisory,per client,1500-4000,,"Named security lead + risk register + roadmap + board reporting",80,monthly
+L3 Add-on,Compliance platform mgmt (Vanta/Drata),per platform,,"pass-through + 20%",Evidence automation managed by you,20 on license,L2 client
+L3 Add-on,Remediation sprint,per finding,,"500-5000/finding",Fixed price per critical finding from audit,60,,
+L4,Incident response retainer,per client,,"retainer + hourly",On-call containment/SLA,70,,
+L4,Cyber insurance readiness pack,per client,,"1500-3000",Insurer-form deliverables,70,,

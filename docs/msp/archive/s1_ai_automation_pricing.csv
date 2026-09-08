@@ -1,0 +1,9 @@
+SERVICE 1: AI INTEGRATION & WORKFLOW AUTOMATION — PRICING WORKBOOK
+Layer,Tier,Anchor unit,Monthly price (USD),Setup/fixed,What is included,Target margin %,Notes
+L1 Audit,Automation Opportunity Audit,per audit,,"1500-3000 fixed",Workflow map + ROI-ranked top 5 + 1 pilot automation built,50-60,2 weeks; 50% deposit
+L2 Retainer,Automation Care - Starter,up to 5 active automations,750,500 setup,Monitoring + small fixes + quarterly 1 new automation credit,70,,
+L2 Retainer,Automation Care - Growth,up to 15 active automations,1500,1000 setup,"Starter + quarterly 3 credits + weekly check-ins",72,,
+L2 Retainer,Automation Care - Scale,unlimited automations + agents,3000,2000 setup,"Dedicated automation engineer + monthly roadmap + 6 credits/yr",75,,
+L3 Add-on,AI Knowledge Q&A (governed),per 10 users,250,per workspace,Bot trained on client docs with audit trail,80,,
+L3 Add-on,Custom AI agent build,per agent,,"4000-8000 fixed","One scoped agent with guardrails + human-in-loop",60,Success fee option
+L4,Quarterly optimization credit,per credit,,"500/credit",Beyond included credits,85,,

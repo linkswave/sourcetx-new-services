@@ -1,0 +1,11 @@
+SERVICE 3: MULTI-CLOUD OPTIMIZATION & REMOTE INFRASTRUCTURE — PRICING WORKBOOK
+Layer,Tier,Anchor unit,Monthly price (USD),Setup/fixed,What is included,Target margin %,Notes
+L1 Audit,Cloud & Spend Optimization Audit,per audit,,"1500-4000 fixed","Rightsizing plan + RI/commit strategy + SaaS reconciliation + 12-mo forecast",50-60,no-risk guarantee
+L2 Retainer,Cloud Managed Ops - Basic,up to $5K cloud spend managed,750,1000 setup,Monitoring + monthly FinOps report + patching,70,,
+L2 Retainer,Cloud Managed Ops - Standard,up to $20K cloud spend,2000,1500 setup,"Basic + autoscaling + quarterly savings target + 1 migration credit",72,,
+L2 Retainer,Cloud Managed Ops - Enterprise,$20K+ spend,4000,2500 setup,"Standard + dedicated cloud eng + FinOps platform + monthly exec review",75,,
+L3 Add-on,Optimization Sprint,per engagement,,"20-30% of Y1 savings (or fixed)",Implement audit savings,60,,
+L3 Project,Migration / modernization,per project,,"fixed per scope","On-prem to cloud + lift/shift to refactor",55,,
+L2 Add-on,M365 / Workspace full mgmt,per user,15-25,,"Tenant + identity + device mgmt (Intune)",60,,
+L2 Add-on,Zero-trust remote access (ZTA),per user,5-10,,"SSO + ZTA (Twingate/Cloudflare)",65,,
+L4,Quarterly savings share,per client,,"20-30% of incremental savings",Keeps them honest,,option
